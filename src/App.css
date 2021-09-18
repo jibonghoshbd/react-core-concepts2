@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+.product {
+  background-color: lightgreen;
+  border: 3px solid blue;
+  border-radius: 10px;
+  margin-bottom: 10px;
+
+}
+.count {
+  background-color: darksalmon;
+  padding: 10px;
+  border-radius: 10px;
+  border: 3px solid rgb(21, 228, 38);
+  margin-top: 5px;
+}
+.count button {
+  background-color: #ddd;
+  padding: 10px 25px;
+  outline: none;
+  border: 3px solid royalblue;
+  margin-left: 10px;
+  border-radius: 7px;
+  font-size: 18px;
+  font-weight: 600;;
+
+}
